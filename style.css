@@ -1,0 +1,38 @@
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+.class_navbr{
+    position: sticky;
+    top: 0 ;
+    z-index: 99;
+}
+.Class_border{
+    border: 1px solid grey ;
+    padding: 10px;
+    float: none;
+}
+.Class_border img {
+    width: 100%;
+}
+.competition{
+    width: 100%;
+        font-size:22px;
+    border-radius: 15px;
+    padding: 15px;
+}
+.competition i {
+    float: right;
+}
+img{
+    width: auto 250px;
+    height: 300px;
+    
+}
